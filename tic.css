@@ -1,0 +1,29 @@
+body > * {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-family: Avenir, sans-serif;
+}
+
+td#cell0, td#cell1, td#cell2, td#cell3, td#cell4, td#cell5 {
+   border-bottom: 3px solid black;;
+}
+
+td#cell0, td#cell1, td#cell3, td#cell4, td#cell6, td#cell7 {
+    border-right: 3px solid black;
+}
+table {
+  border: 3px solid black;
+  background-color: aqua;
+  width: 350px;
+  height: 350px;
+}
+
+table#tictac td {
+  width: 1.3em;
+  height: 1.3em;
+  text-align: center;
+  vertical-align: middle;
+  font: bold 36px Avenir;
+}
+  
