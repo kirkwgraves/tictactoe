@@ -19,6 +19,10 @@ table {
   height: 350px;
 }
 
+.wrapper {
+  text-align: center;
+}
+
 table#tictac td {
   width: 1.3em;
   height: 1.3em;
